@@ -30,7 +30,7 @@ At Unwiring Tech®, my mission is simple: **make complex tech usable for everyon
 
 ### Building Startups in Public 
 ```
-Building my startup in stealth mode but sharing its journey in public
+Building CroozLink | Helping creators and businesses get discovered. (Launching 25 Feb 2026)
 ```
 
 ---
@@ -74,8 +74,7 @@ The journey wasn't without challenges. When my hard drive failed, it led to rest
 Founded Unwiring Tech® in Feb 2021 to "unwire" technology, making it accessible and less complex for everyone. Every product and service is crafted with the same passion that drove me from the beginning.
 
 **Current Focus:**
-- Building my startup in Stealth Mode but sharing its journey in public.
-- Making tech actually work for people
+- Building CroozLink | Helping creators and businesses get discovered. (Launching 25 Feb 2026)
 
 
 
