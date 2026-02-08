@@ -30,7 +30,7 @@ At Unwiring Tech®, my mission is simple: **make complex tech usable for everyon
 
 ### Building Startups in Public 
 ```
-
+Building my startup in stealth mode but sharing its journey in public
 ```
 
 ---
@@ -74,33 +74,10 @@ The journey wasn't without challenges. When my hard drive failed, it led to rest
 Founded Unwiring Tech® in Feb 2021 to "unwire" technology, making it accessible and less complex for everyone. Every product and service is crafted with the same passion that drove me from the beginning.
 
 **Current Focus:**
-- Building my startup in Stealth Mode but sharing journey in public.
+- Building my startup in Stealth Mode but sharing its journey in public.
 - Making tech actually work for people
 
----
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <a href="https://github.com/vichaarit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vichaarit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichaarit&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vichaarit">
-    <img src="https://streak-stats.demolab.com/?user=vichaarit&theme=tokyonight&hide_border=false" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vichaarit">
-    <img src="https://github-profile-trophy.vercel.app/?username=vichaarit&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" />
-  </a>
-</div>
-
----
 
 ## 🔥 My Mission
 
