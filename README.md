@@ -74,9 +74,7 @@ The journey wasn't without challenges. When my hard drive failed, it led to rest
 Founded Unwiring Tech® in Feb 2021 to "unwire" technology, making it accessible and less complex for everyone. Every product and service is crafted with the same passion that drove me from the beginning.
 
 **Current Focus:**
-- Building CroozLink | Helping creators and businesses get discovered. (Launching 25 Feb 2026)
-
-
+- Building CroozLink | Helping Professionals get discovered.
 
 ## 🔥 My Mission
 
@@ -86,6 +84,21 @@ Founded Unwiring Tech® in Feb 2021 to "unwire" technology, making it accessible
 - 📱 Creating tools that simplify complex tech
 - 🎯 Building my Startup
 - 🌟 Making tech accessible for everyone
+
+## 📁 A Note on Public Repositories or Contribution History
+
+Since my journey includes a strong background as a Level 2 freelance seller on Fiverr, 
+you might find older repositories, commits, or contributions on my profile 
+that were strictly client work.
+
+These projects (and their content, topics, or documentation) :
+- Were built as paid deliverables (freelancing work), not personal ventures
+- Do not represent my personal views, beliefs, or affiliations
+- May be incomplete, archived, or no longer maintained
+
+I am an executor. My goal has always been to solve the client's problem 
+and deliver results, regardless of the project's domain.
+I no longer take freelance client work.
 
 ---
 
